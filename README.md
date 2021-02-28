@@ -2,7 +2,7 @@
 
 ## Maintainers
 
-This math calculator is maintained by Ryan.
+This repository is maintained by Ryan.
 
 ## Status
 
