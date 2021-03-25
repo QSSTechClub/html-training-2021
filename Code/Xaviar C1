@@ -1,0 +1,12 @@
+<!DOCTYPEhtml>
+     <html lang="en">
+         <head>
+             <meta name="desciption"content="This is a rad website">
+             <meta charset="UTF-8"> 
+             <meta name="author"content="Caviar"
+             <meta name="viewport"content="width=device-width, intial-scale=1.0">
+         </head>
+         <body>
+             <p>This is a website.</p>
+         </body>
+     </html>
